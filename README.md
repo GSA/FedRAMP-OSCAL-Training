@@ -1,2 +1,2 @@
-# FedRAMP-Training
-This site hosts FedRAMP Training.  
+# FedRAMP-OSCAL-Training
+This site hosts FedRAMP OSCAL Training.  
